@@ -21,11 +21,11 @@ initime = time.time()
 count = 0
 plt.ion()
 
-
-ckey='HeoptknrBqclbGepPv2L7dI0O'
-csecret='Dr3KokYCfyK0lC24UkIhIhRSjgrqSLr9sHKTg0fJ1YAeeqgVrj'
-atoken='1386775308-233wtadmeHSfXLrtKkFsVk03UxYoBcXgaR3BGC9'
-asecret='X7Bu9iR85aYgLK3DESEewszaHVQUegj2SksWDhs18wvbT'
+# Input your Twitter Session Details and Credentials
+ckey=''
+csecret=''
+atoken=''
+asecret=''
 
 
 class listener(StreamListener):
